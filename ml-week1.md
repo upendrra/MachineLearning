@@ -8,3 +8,4 @@ Given the “right answer” for each example in the data.
   - Classification Problem - whether the house is 2bhk or more etc
   
 h(x) = [math]\theta[/math] - θ0 + θ1x
+[math]\theta[/math] 
