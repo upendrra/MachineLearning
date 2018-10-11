@@ -7,4 +7,6 @@ Given the “right answer” for each example in the data.
   - A discreet value is output eg. price of the house
   - Classification Problem - whether the house is 2bhk or more etc
   
+Gradiant Descent Derivation - http://mccormickml.com/2014/03/04/gradient-descent-derivation/
+  
 
