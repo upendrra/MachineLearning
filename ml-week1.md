@@ -10,5 +10,7 @@ Given the “right answer” for each example in the data.
 Gradiant Descent Derivation - http://mccormickml.com/2014/03/04/gradient-descent-derivation/
 
 [Another Gradient Descent Derivation](https://matthewebmckenna.com/posts/2017/05/gradient-descent-linear-regression)
+
+http://anwarruff.com/category/machine-learning/
   
 
