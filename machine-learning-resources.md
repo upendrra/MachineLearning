@@ -18,4 +18,6 @@
 
 10. [Learning from Data Course By Professor Yaser Abu-Mostafa](https://work.caltech.edu/telecourse.html)
 
+11. [Machine Learning Resources by Courseera Andrew NG](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
+
 # [UCI Machine Learning Repo](http://archive.ics.uci.edu/ml/index.php)
