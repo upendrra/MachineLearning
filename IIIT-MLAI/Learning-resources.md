@@ -5,3 +5,5 @@
 3. [jupyter-notebook-tips-tricks-shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 4. [How Python f-stings work- new string formatting](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
+
+5. [Python Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
