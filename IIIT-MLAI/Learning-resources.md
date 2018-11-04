@@ -7,3 +7,5 @@
 4. [How Python f-stings work- new string formatting](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
 
 5. [Python Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
+
+6. [Further Numpy Reading](http://www.numpy.org/)
