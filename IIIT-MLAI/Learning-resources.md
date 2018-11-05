@@ -9,3 +9,5 @@
 5. [Python Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
 
 6. [Further Numpy Reading](http://www.numpy.org/)
+
+7. [Jupyter Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
