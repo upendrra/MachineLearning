@@ -15,3 +15,5 @@
 8. [Python_SciPy_Cheat_Sheet_Linear_Algebra](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
 
 9. [Math World for Linear Algebra](http://www.mathwords.com/)
+
+10. [CSV File Encoding issues](https://jrogel.com/python-3-pandas-encoding-issues/)
