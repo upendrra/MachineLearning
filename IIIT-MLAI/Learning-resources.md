@@ -17,3 +17,5 @@
 9. [Math World for Linear Algebra](http://www.mathwords.com/)
 
 10. [CSV File Encoding issues](https://jrogel.com/python-3-pandas-encoding-issues/)
+
+11. [Public APIs for getting data](https://github.com/toddmotto/public-apis)
