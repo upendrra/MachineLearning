@@ -20,4 +20,4 @@
 
 11. [Public APIs for getting data](https://github.com/toddmotto/public-apis)
 
-[Matplot Lib Tutorial Introduction](https://github.com/rougier/matplotlib-tutorial#introduction)
+12. [Matplot Lib Tutorial Introduction](https://github.com/rougier/matplotlib-tutorial#introduction)
