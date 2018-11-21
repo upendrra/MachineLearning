@@ -19,3 +19,5 @@
 10. [CSV File Encoding issues](https://jrogel.com/python-3-pandas-encoding-issues/)
 
 11. [Public APIs for getting data](https://github.com/toddmotto/public-apis)
+
+[Matplot Lib Tutorial Introduction](https://github.com/rougier/matplotlib-tutorial#introduction)
