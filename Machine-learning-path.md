@@ -9,3 +9,5 @@
 5. [MachineLearningMastery](https://machinelearningmastery.com/start-here/)
 
 6. [learn-machine-learning](https://elitedatascience.com/learn-machine-learning#step-0)
+
+7. [Best Place for Machine Learning](https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning-if-they-have-some-knowledge-of-programming-languages)
